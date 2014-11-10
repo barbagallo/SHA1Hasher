@@ -7,11 +7,6 @@
 		 * Somewhat rewritten by John Paul Barbagallo. Based on Paul Johnston's
 		 * work, this library simply provides a SHA1.hex method, which will
 		 * consume a given String and return a safe, proper SHA1 hex string.
-		 *
-		 * A JavaScript implementation of the Secure Hash Algorithm, SHA-1, as defined in FIPS 180-1
-		 * Version 2.2 Copyright Paul Johnston 2000 - 2009.
-		 * Other contributors: Greg Holt, Andrew Kepert, Ydnar, Lostinet
-		 * See http://pajhome.org.uk/crypt/md5 for details.
 		 */
 		var SHA1 = function() {
 
